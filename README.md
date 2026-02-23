@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Farhan Labeeb Apon
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=GOAL+ +Full+Stack+Developer;React+%2B+Go+Developer;Building+Scalable+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Go+Developer;Building+Scalable+Projects" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 
 ## 🧠 About Me
 
-- 💻 Full-stack developer focused on **React + Go**
+- 💻 Backend developer focused on **Go**
 - 🚀 Currently building a **Jira-style task manager**
 - 📚 Learning backend architecture & system design
 - 🎯 Goal: Become a professional software engineer
@@ -39,9 +39,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FLA-Official&show_icons=true&theme=radical&cache_seconds=1800" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FLA-Official&layout=compact&theme=radical&cache_seconds=1800" />
-  <img src="https://streak-stats.demolab.com?user=FLA-Official&theme=radical&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com?user=FLA-Official&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
@@ -55,11 +53,19 @@
 
 ---
 
+---
+
 ## 📫 Connect With Me
 
-<p>
+<p align="center">
   <a href="https://github.com/FLA-Official">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.facebook.com/yourprofile">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
