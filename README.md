@@ -46,8 +46,11 @@
 
 ## 🚀 Projects
 
+- 🔹 **Ecommerce**  
+ Bacjedb using Go with REST API 
 - 🔹 **TodoList (Jira-style Task Manager)**  
-  Full-stack app using React + Go with REST API  
+  Full-stack app using React + Go with REST API
+
 
 - 🔹 More projects coming soon...
 
