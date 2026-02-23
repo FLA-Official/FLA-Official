@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Farhan Labeeb Apon
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%2B+Go+Developer;Building+Scalable+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=GOAL: +Full+Stack+Developer;React+%2B+Go+Developer;Building+Scalable+Projects" />
 </p>
 
 <p align="center">
@@ -39,12 +39,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FLA-Official&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FLA-Official&layout=compact&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=FLA-Official&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FLA-Official&show_icons=true&theme=radical&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FLA-Official&layout=compact&theme=radical&cache_seconds=1800" />
+  <img src="https://streak-stats.demolab.com?user=FLA-Official&theme=radical&cache_seconds=1800" />
 </p>
 
 ---
