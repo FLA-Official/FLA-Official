@@ -1,9 +1,3 @@
-## 🛠️ Tech Stack
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 
 # 👋 Hi, I'm Farhan Labeeb Apon
 
@@ -24,17 +18,17 @@
 ## 🛠️ Tech Stack
 
 ### 🚀 Frontend
-- React
-- Vite
-- Tailwind CSS
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 
 ### ⚙️ Backend
-- Go (Golang)
-- REST API
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)
+![REST API](https://img.shields.io/badge/REST-API-000000?style=for-the-badge)
 
 ### 🗄️ Database
-- PostgreSQL
-- MongoDB
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
 
 ---
 
