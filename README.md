@@ -1,17 +1,21 @@
-
 # 👋 Hi, I'm Farhan Labeeb Apon
 
-💻 Full Stack Developer | 🚀 Learning Go + React  
-🌱 Currently building: Jira-style Task Manager  
-⚡ Passionate about scalable systems & clean UI  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;React+%2B+Go+Developer;Building+Scalable+Projects" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=FLA-Official&color=blue" />
+</p>
 
 ---
 
 ## 🧠 About Me
 
-- 🔭 Working on full-stack projects  
-- 📚 Learning backend architecture & DevOps basics  
-- 🎯 Goal: Become a professional software engineer  
+- 💻 Full-stack developer focused on **React + Go**
+- 🚀 Currently building a **Jira-style task manager**
+- 📚 Learning backend architecture & system design
+- 🎯 Goal: Become a professional software engineer
 
 ---
 
@@ -35,23 +39,35 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=FLA-Official&show_icons=true&theme=radical&cache_seconds=1800" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FLA-Official&layout=compact&theme=radical&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FLA-Official&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FLA-Official&layout=compact&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=FLA-Official&theme=radical" />
 </p>
 
 ---
 
 ## 🚀 Projects
 
-- 🔹 TodoList App (Jira-style)  
-- 🔹 More coming soon...  
+- 🔹 **TodoList (Jira-style Task Manager)**  
+  Full-stack app using React + Go with REST API  
+
+- 🔹 More projects coming soon...
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect With Me
 
-- GitHub: https://github.com/FLA-Official
+<p>
+  <a href="https://github.com/FLA-Official">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
-⭐ From [FLA-Official](https://github.com/FLA-Official)
+## ⭐ Support
+
+If you like my work, consider giving a ⭐ to my repositories!
