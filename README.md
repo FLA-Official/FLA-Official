@@ -1,3 +1,10 @@
+## 🛠️ Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+
 # 👋 Hi, I'm Farhan Labeeb Apon
 
 💻 Full Stack Developer | 🚀 Learning Go + React  
@@ -27,6 +34,7 @@
 
 ### 🗄️ Database
 - PostgreSQL
+- MongoDB
 
 ---
 
